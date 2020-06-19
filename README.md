@@ -1,6 +1,6 @@
 # COMP551 (Fall-2019)-Applied Machine Learning 
 # Mini Project 3 (Modified_MNIST_Classifier)
-### Contributors: Shantanil Bagchi, Nikhil Podila, Manoosh Samiei
+### Contributors: Shantanil Bagchi, Nikhil Podila, Mehdi Amian
 
 ## Abstract
 In this project, a novel approach is proposed for classiﬁcation of the Modiﬁed MNIST dataset. The task is to identify the numerically largest value among three handwritten digits within each image. The proposed algorithm is a modiﬁed version of the well known VGGNet. Since convolutional neural networks (CNN) automatically capture the relevant features, we observe that additional feature selection and preprocessing on dataset are unnecessary. We also observe that data augmentation, optimizer tuning and model ensembling contribute to our best performance. The proposed algorithm reached an accuracy of 99.3% on the test set and ranked the ﬁrst on Kaggle’s Modiﬁed MNIST competition.
