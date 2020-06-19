@@ -8,7 +8,7 @@ In this project, a novel approach is proposed for classiﬁcation of the Modiﬁ
 The repository contains following files:
 
 * 1 Jupyter notebook files - COMP551 (Fall 2019) Applied Machine Learning Mini Project 3 (Subreddit Classifier).ipynb
-* 2 Dataset files - reddit_train.data and reddit_test.csv
+* 2 Dataset files - Downloadable at https://www.kaggle.com/c/modified-mnist/data
 * 1 ReadMe file - ReadMe.md
 * 1 Project writeup - writeup.pdf
 * 1 Libraries file - requirements.txt
